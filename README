@@ -1,0 +1,9 @@
+Class Project: Face Identification from One Example
+Date: Dec 2010
+Based on:
+1. Crammer and Globerson. Discriminative learning via probabilistic semidefinite models. In: UAI, 2006.
+2. Wen, Goldfarb, and Yin. Alternating Direction Augmented Lagrangian Methods for Semidefinite Programming. Mathematical Programming Computation, 2009.
+
+The code implements the alternating direction methods in [2] to solve a 2-class version of the model in [1].
+Code is online mainly for my reference. It is licensed under GPLv2 for non-commercial research purposes only.
+The experiments were run on the Yale and AT&T faces datasets.
